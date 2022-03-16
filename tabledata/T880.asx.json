@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "RCOMP":"ZTO",
+    "NAME1":"ZTO-Company",
+    "CNTRY":"DE",
+    "NAME2":"",
+    "LANGU":"D",
+    "STRET":"Irgendeine-Straße",
+    "POBOX":"",
+    "PSTLC":"68001",
+    "CITY":"Nirgendwo",
+    "CURR":"EUR",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
